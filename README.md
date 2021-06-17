@@ -8,11 +8,17 @@
 <p align="left"> <a href="https://twitter.com/gry_hunt3r" target="blank"><img src="https://img.shields.io/twitter/follow/gry_hunt3r?logo=twitter&style=for-the-badge" alt="gry_hunt3r" /></a> </p>
 
 <h2 align="center">About Me:</h2>
+
 - 📍  Location: Tyrol, Austria, Earth
+
 - 👵 Age: 16
+
 - 😄 Pronouns: He/Him
+
 - 👦 Biological Gender: Male
+
 - ❤ Sexuality: Straight (But I would get into a Partnership with a Male but I don't want smth sexual from that so...)
+
 - 💖 In love with: ❤Laura❤
 
 <h2 align="center"<About my work/nerdy site</h2>
