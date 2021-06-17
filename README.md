@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gry_hunt3r" target="blank"><img src="https://img.shields.io/twitter/follow/gry_hunt3r?logo=twitter&style=for-the-badge" alt="gry_hunt3r" /></a> </p>
 
-<h2 align="center">About Me:</h2>
+## About Me:
 
 - 📍  Location: Tyrol, Austria, Earth
 
@@ -22,7 +22,7 @@
 - 💖 In love with: ❤Laura❤
 
 
-<h2 align="center"<About my work/nerdy site:</h2>
+## About my work/nerdy site:
 
 - 🔭 I’m currently working on [AstroBot (But gonna change the name)](https://github.com/Kaffeedor/astro-dbot-public)
 
