@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Kaffeedor/Kaffeedor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Fedor</h1>
 <h3 align="center">A programmer and Nerd from Austria</h3>
 
@@ -23,6 +7,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/gry_hunt3r" target="blank"><img src="https://img.shields.io/twitter/follow/gry_hunt3r?logo=twitter&style=for-the-badge" alt="gry_hunt3r" /></a> </p>
 
+<h2 align="center">About Me:</h2>
+- 📍  Location: Tyrol, Austria, Earth
+- 👵 Age: 16
+- 😄 Pronouns: He/Him
+- 👦 Biological Gender: Male
+- ❤ Sexuality: Straight (But I would get into a Partnership with a Male but I don't want smth sexual from that so...)
+- 💖 In love with: ❤Laura❤
+
+<h2 align="center"<About my work/nerdy site</h2>
+
 - 🔭 I’m currently working on [AstroBot (But gonna change the name)](https://github.com/Kaffeedor/astro-dbot-public)
 
 - 🌱 I’m currently learning **Python, Radio Astronomy**
@@ -31,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaffeedor](https://github.com/Kaffeedor)
 
-- 🌍Website [https://kaffeedor.github.io](https://kaffeedor.github.io)
+- 🌍 Website [https://kaffeedor.github.io](https://kaffeedor.github.io)
 
 - 📫 How to reach me **Discord Kaffeedor#0487**
 
