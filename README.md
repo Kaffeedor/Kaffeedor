@@ -15,9 +15,9 @@
 
 - 😄 Pronouns: He/Him
 
-- 👦 Biological Gender: Male
+- 👦 Biological Gender: Cisgender Male
 
-- ❤ Sexuality: Straight (But I would get into a Partnership with a Male but I don't want smth sexual from that so...)
+- ❤ Sexuality: Straight (But I don't have anything against me getting into a Realtionship with a not-Female but I don't want smth sexual from people with penis Soo...)
 
 - 💖 In love with: ❤Laura❤
 
