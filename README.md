@@ -41,7 +41,7 @@
 <a href="https://twitter.com/gry_hunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gry_hunt3r" height="30" width="40" /></a>
 <a href="https://fb.com/fedor.teyml.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fedor teyml" height="30" width="40" /></a>
 <a href="https://instagram.com/kaffeedor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaffeedor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCOT7oC5SPOj422qtJYkPybw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="radio astronomy and space" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOT7oC5SPOj422qtJYkPybw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="radio astronomy and space" height="30" width="40" /></a>
 <a href="https://discord.gg/U2ZXqUR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="U2ZXqUR" height="30" width="40" /></a>
 </p>
 
