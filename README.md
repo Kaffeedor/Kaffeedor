@@ -11,15 +11,15 @@
 
 - 📍  Location: Tyrol, Austria, Earth
 
-- 👵 Age: 16
+- 👵 Born in: August 2004
 
 - 😄 Pronouns: He/Him
 
-- 👦 Biological Gender: Cisgender Male
+- 👦 Gender: Male (Cis)
 
-- ❤ Sexuality: Straight (But I don't have anything against me getting into a Realtionship with a not-Female but I don't want smth sexual from people with penis Soo...)
+- ❤ Sexuality: Bicurios
 
-- 💖 In love with: ❤Laura❤
+- 💖 In love with: no one
 
 
 ## About my work/nerdy site:
