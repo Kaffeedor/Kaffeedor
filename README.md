@@ -17,9 +17,7 @@
 
 - 👦 Gender: Male (Cis)
 
-- ❤ Sexuality: Bicurios
-
-- 💖 In love with: no one
+- ❤ Pronouns: He/Him idrc tho lol
 
 
 ## About my work/nerdy site:
