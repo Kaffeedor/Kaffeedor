@@ -13,26 +13,14 @@
 
 - 👵 Born in: August 2004
 
-- 😄 Pronouns: He/Him
-
-- 👦 Gender: Male (Cis)
-
-- ❤ Pronouns: He/Him idrc tho lol
-
 
 ## About my work/nerdy site:
-
-- 🔭 I’m currently working on [AstroBot (But gonna change the name)](https://github.com/Kaffeedor/astro-dbot-public)
-
-- 🌱 I’m currently learning **Python, Radio Astronomy**
-
-- 🤝 I’m looking for help with **Everything you ask me**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaffeedor](https://github.com/Kaffeedor)
 
 - 🌍 Website [https://kaffeedor.github.io](https://kaffeedor.github.io)
 
-- 📫 How to reach me **Discord Kaffeedor#0487**
+- 📫 How to reach me **Discord cato#0487**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
