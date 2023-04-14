@@ -14,7 +14,7 @@
 - 📫 How to reach me **Discord cato#0487**
 
 <h3 align="left">Languages and Tools:</h3>
-Pytho and more
+Python and more
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaffeedor&show_icons=true&locale=en&layout=compact" alt="kaffeedor" /></p>
 
