@@ -1,5 +1,5 @@
-<h1 align="center">Heyyy, I'm Murphy</h1>
-<h3 align="center">stfu nerd</h3>
+<h3 align="center">Heyyy, I'm Murphy,</h3>
+<h3 align="center">welcome to my (ugly) Github Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaffeedor&label=Profile%20views&color=0e75b6&style=flat" alt="kaffeedor" /> </p>
 
